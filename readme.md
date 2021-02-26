@@ -1,5 +1,9 @@
-# <div align="center">Instituto Tecnológico de Tijuana</div>
-# <div align="center"> Ingenería en sistemas computacionales </div>
+# <div align="center">Instituto Tecnológico de Tijuana</div>  
+<div align="center">
+    <img alt="Logo" src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png" width=250 height=250>
+</div>  
+
+# <div align="center"> Ingeniería en sistemas computacionales </div>
 # <div align="center"> Sistemas programables </div> 
 ---
 ### <div align="center">:page_with_curl: Datos :page_with_curl:</div>
