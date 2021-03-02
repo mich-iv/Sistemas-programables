@@ -13,6 +13,7 @@
 ### <div align="center">:green_book: Contenido :green_book: </div>
 ### - Unidad 1: sensores:  
   - [C1.1 Cuestionario electrónica básica y sus elementos.](C-md/C1.1_ElectronicaBasica_y_elementos_GascaOlvera.md)
+  - [C1.2 Circuito electrónico básico.](C-md/C1.2_ElectronicaBasica_circuitos_GascaOlvera.md)
 ### - Unidad 2: actuadores  
 ### - Unidad 3: microcontroladores y programación  
 ### - Unidad 4: puertos y buses de comunicación  
