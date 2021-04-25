@@ -1,10 +1,10 @@
 <mxfile>
     <diagram id="hZD_WkUhxi2ch8CYUG0I" name="Page-1">
-        <mxGraphModel dx="1374" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1118" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="" style="shape=table;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;html=1;labelBackgroundColor=none;labelBorderColor=none;rounded=0;" parent="1" vertex="1">
+                <mxCell id="3" value="" style="shape=table;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;html=1;labelBackgroundColor=none;labelBorderColor=none;rounded=0;fillColor=none;" parent="1" vertex="1">
                     <mxGeometry x="460" y="40" width="1190" height="1290" as="geometry"/>
                 </mxCell>
                 <mxCell id="4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
@@ -85,7 +85,7 @@
                 <mxCell id="29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
                     <mxGeometry width="140" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Motor paso a paso&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
+                <mxCell id="30" value="&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;Motor paso a paso&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
                     <mxGeometry x="140" width="250" height="100" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="convierte una serie de impulsos eléctricos en desplazamientos angulares discretos, lo que significa que es capaz de girar una cantidad de grados (paso o medio paso) dependiendo de sus entradas de control." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
@@ -139,10 +139,10 @@
                 <mxCell id="59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
                     <mxGeometry width="140" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(42 , 42 , 42) ; display: inline ; float: none&quot;&gt;Pistón neumático (lineales)&lt;/span&gt;&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
+                <mxCell id="60" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Pistón neumático (lineales)&lt;/font&gt;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
                     <mxGeometry x="140" width="250" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: justify&quot;&gt;El vástago puede estar replegado o extendido inicialmente, tienen un resorte de recuperación de posición, al suministrarle aire comprimido el émbolo modifica su posición y cuando se purga el aire, el muelle recupera la posición inicial del émbolo. Debido a la longitud del muelle se utilizan cilindros de simple efecto con carreras de hasta 100 mm.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
+                <mxCell id="61" value="&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;El vástago puede estar replegado o extendido inicialmente, tienen un resorte de recuperación de posición, al suministrarle aire comprimido el émbolo modifica su posición y cuando se purga el aire, el muelle recupera la posición inicial del émbolo. Debido a la longitud del muelle se utilizan cilindros de simple efecto con carreras de hasta 100 mm.&lt;/font&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;" parent="58" vertex="1">
                     <mxGeometry x="390" width="250" height="150" as="geometry"/>
                 </mxCell>
                 <mxCell id="62" value="&lt;ul&gt;&lt;li&gt;Muy útilles para tensar, expulsar, introducir o sujetar.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="58" vertex="1">
