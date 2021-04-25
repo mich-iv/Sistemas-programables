@@ -1,191 +1,227 @@
 <mxfile>
     <diagram id="hZD_WkUhxi2ch8CYUG0I" name="Page-1">
-        <mxGraphModel dx="1118" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1374" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="3" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-                    <mxGeometry width="620" height="800" as="geometry"/>
+                <mxCell id="3" value="" style="shape=table;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;html=1;labelBackgroundColor=none;labelBorderColor=none;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="40" width="1190" height="1290" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry width="620" height="80" as="geometry"/>
+                <mxCell id="4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry width="1190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="Clasificación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="5" value="Clasificación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4" vertex="1">
+                    <mxGeometry width="140" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Subclasificación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="6" value="Subclasificación" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4" vertex="1">
+                    <mxGeometry x="140" width="250" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Funcionamiento" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="7" value="Funcionamiento" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4" vertex="1">
+                    <mxGeometry x="390" width="250" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="Ventajas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="8" value="Ventajas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4" vertex="1">
+                    <mxGeometry x="640" width="230" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Desventajas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="4">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="9" value="Desventajas" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="4" vertex="1">
+                    <mxGeometry x="870" width="320" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="80" width="620" height="80" as="geometry"/>
+                <mxCell id="10" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="40" width="1190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Actuadores eléctricos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="10">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Actuadores eléctricos&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="10" vertex="1">
+                    <mxGeometry width="140" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Motor de corriente continua" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="10">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="12" value="Motor de corriente continua" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;sketch=0;shadow=0;" parent="10" vertex="1">
+                    <mxGeometry x="140" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="10">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="13" value="se basa en la repulsión que ejercen los polos magnéticos de un imán permanente cuando, de acuerdo con la Ley de Lorentz, interactúan con los polos magnéticos de un electroimán que se encuentra montado en un eje." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="10" vertex="1">
+                    <mxGeometry x="390" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="10">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="14" value="&lt;ul&gt;&lt;li&gt;Amplio rango de potencias&lt;/li&gt;&lt;li&gt;Control de rango preciso&lt;/li&gt;&lt;li&gt;Permite un control de par preciso&lt;/li&gt;&lt;li&gt;Es reversible&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="10" vertex="1">
+                    <mxGeometry x="640" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="10">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="15" value="&lt;ul&gt;&lt;li&gt;Su construcción es menos robusta&lt;/li&gt;&lt;li&gt;Requiere mayor mantenimiento&lt;/li&gt;&lt;li&gt;Mayor tamaño por unidad de potencia&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="10" vertex="1">
+                    <mxGeometry x="870" width="320" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="160" width="620" height="80" as="geometry"/>
+                <mxCell id="16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="160" width="1190" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="16">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;strokeWidth=1;fillColor=none;strokeColor=none;" parent="16" vertex="1">
+                    <mxGeometry width="140" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="Motor de corriente alterna" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="16">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="18" value="Motor de corriente alterna (asíncronos)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="16" vertex="1">
+                    <mxGeometry x="140" width="250" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="16">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="19" value="en los que la corriente eléctrica se provoca por inducción electromagnética del campo magnético de la bobina del estator con el fin de producir la torsión del rotor." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="16" vertex="1">
+                    <mxGeometry x="390" width="250" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="16">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="20" value="&lt;ul&gt;&lt;li&gt;Coste bajo&lt;/li&gt;&lt;li&gt;Robusto&lt;/li&gt;&lt;li&gt;Puede controlarse mediante maniobras por contactores sencillas&lt;/li&gt;&lt;li&gt;Puede controlarse de forma más precisa mediante un variador de frecuencia&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="16" vertex="1">
+                    <mxGeometry x="640" width="230" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="16">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="21" value="&lt;ul&gt;&lt;li&gt;Su velocidad depende de la carga, pudiendo ser entre un 2 y un 8% menor que la nominal.&lt;/li&gt;&lt;li&gt;El coste del variador incrementa el coste del motor.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="16" vertex="1">
+                    <mxGeometry x="870" width="320" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="240" width="620" height="80" as="geometry"/>
+                <mxCell id="22" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="300" width="1190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="22">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;fillColor=none;strokeColor=none;" parent="22" vertex="1">
+                    <mxGeometry width="140" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="Motor paso a paso" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="22">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="24" value="Motor de corriente alterna (síncronos)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="22" vertex="1">
+                    <mxGeometry x="140" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="22">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="25" value="la rotación del eje está sincronizada con la frecuencia de la corriente de alimentación; el período de rotación es exactamente igual a un número entero de ciclos de CA." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="22" vertex="1">
+                    <mxGeometry x="390" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="22">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="26" value="&lt;ul&gt;&lt;li&gt;Mantenienen su velocidad independientemente de la carga, dependiendo únicamente de la frecuencia.&lt;/li&gt;&lt;li&gt;Mejora el factor de potencia respecto a los motores asíncronos.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="22" vertex="1">
+                    <mxGeometry x="640" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="22">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="27" value="&lt;ul&gt;&lt;li&gt;Son más caros y complejos que los moteres asíncronos.&lt;/li&gt;&lt;li&gt;Requieren de un sistema de arranque auxiliar hasta alcanzar la velocidad de sincronismo.&lt;/li&gt;&lt;li&gt;Requieren un mayor mantenimiento.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="22" vertex="1">
+                    <mxGeometry x="870" width="320" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="320" width="620" height="80" as="geometry"/>
+                <mxCell id="28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="420" width="1190" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ffffff&quot;&gt;Motor paso a paso&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="28">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="29" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
+                    <mxGeometry width="140" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="28">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="30" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Motor paso a paso&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
+                    <mxGeometry x="140" width="250" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="28">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="31" value="convierte una serie de impulsos eléctricos en desplazamientos angulares discretos, lo que significa que es capaz de girar una cantidad de grados (paso o medio paso) dependiendo de sus entradas de control." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="28" vertex="1">
+                    <mxGeometry x="390" width="250" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="28">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="32" value="&lt;ul&gt;&lt;li&gt;Posicionamiento muy preciso&lt;/li&gt;&lt;li&gt;Permite velocidades muy bajas&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="28" vertex="1">
+                    <mxGeometry x="640" width="230" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="28">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="33" value="&lt;ul&gt;&lt;li&gt;Potencia muy limitada&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="28" vertex="1">
+                    <mxGeometry x="870" width="320" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="46" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="400" width="620" height="80" as="geometry"/>
+                <mxCell id="46" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="520" width="1190" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="46">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="47" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="46" vertex="1">
+                    <mxGeometry width="140" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="46">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="48" value="Servomotores eléctricos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="46" vertex="1">
+                    <mxGeometry x="140" width="250" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="46">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="49" value="Los servomotores se controlan enviando un pulso eléctrico de ancho variable, o modulación de ancho de pulso (PWM), a través del cable de control. Hay un pulso mínimo, un pulso máximo y una frecuencia de repetición" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="46" vertex="1">
+                    <mxGeometry x="390" width="250" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="46">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="50" value="&lt;ul&gt;&lt;li&gt;Posicionamiento muy preciso, apto para el control de máquinas, herramienta, o como preaccionador de válvulas de control.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="46" vertex="1">
+                    <mxGeometry x="640" width="230" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="46">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="51" value="&lt;ul&gt;&lt;li&gt;Requieren de un circuito de control interno.&lt;/li&gt;&lt;li&gt;La potencia es muy limitada.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="46" vertex="1">
+                    <mxGeometry x="870" width="320" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="480" width="620" height="80" as="geometry"/>
+                <mxCell id="52" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="630" width="1190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="52">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="53" value="Actuadores neumáticos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="52" vertex="1">
+                    <mxGeometry width="140" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="52">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="54" value="Actuador de membrana (lineales)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="52" vertex="1">
+                    <mxGeometry x="140" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="52">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="55" value="&lt;p&gt;Una membrana de goma desempeña las funciones de émbolo. La placa de sujeción asume la función del vástago y está unida a la membrana, el retroceso se realiza por tensión interna de la membrana.&amp;nbsp;&lt;br&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="52" vertex="1">
+                    <mxGeometry x="390" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="52">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="56" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Son muy útiles para remachar, estampar o sujetar.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="52" vertex="1">
+                    <mxGeometry x="640" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="52">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="57" value="&lt;ul&gt;&lt;li&gt;Realizan carreras muy cortas.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="52" vertex="1">
+                    <mxGeometry x="870" width="320" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="560" width="620" height="80" as="geometry"/>
+                <mxCell id="58" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="750" width="1190" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="58">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="59" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
+                    <mxGeometry width="140" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="58">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="60" value="&lt;span style=&quot;color: rgb(240 , 240 , 240) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(42 , 42 , 42) ; display: inline ; float: none&quot;&gt;Pistón neumático (lineales)&lt;/span&gt;&lt;br&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
+                    <mxGeometry x="140" width="250" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="58">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="61" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; font-family: &amp;#34;verdana&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; text-align: justify&quot;&gt;El vástago puede estar replegado o extendido inicialmente, tienen un resorte de recuperación de posición, al suministrarle aire comprimido el émbolo modifica su posición y cuando se purga el aire, el muelle recupera la posición inicial del émbolo. Debido a la longitud del muelle se utilizan cilindros de simple efecto con carreras de hasta 100 mm.&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="58" vertex="1">
+                    <mxGeometry x="390" width="250" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="62" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="58">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="62" value="&lt;ul&gt;&lt;li&gt;Muy útilles para tensar, expulsar, introducir o sujetar.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="58" vertex="1">
+                    <mxGeometry x="640" width="230" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="63" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="58">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="63" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Pueden efectuar trabajo en una sola dirección.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="58" vertex="1">
+                    <mxGeometry x="870" width="320" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="640" width="620" height="80" as="geometry"/>
+                <mxCell id="64" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="900" width="1190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="64">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="65" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="64" vertex="1">
+                    <mxGeometry width="140" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="66" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="64">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="66" value="Motor neumático (rotativo)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="64" vertex="1">
+                    <mxGeometry x="140" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="64">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="67" value="Por medio de cilindros de movimiento alternativo, el aire comprimido acciona a través de una excéntrica o de una biela el cigüeñal del motor, su potencia depende de la presión de alimentación, del número de émbolos y de la superficie y la velocidad de movimiento de estos." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="64" vertex="1">
+                    <mxGeometry x="390" width="250" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="68" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="64">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="68" value="&lt;ul&gt;&lt;li&gt;Gran potencia&lt;/li&gt;&lt;li&gt;Uso en ambientes explosivos&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="64" vertex="1">
+                    <mxGeometry x="640" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="64">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="69" value="&lt;ul&gt;&lt;li&gt;Mala estabilidad en la velocidad.&lt;/li&gt;&lt;li&gt;Potencia de salida baja y baja eficiencia.&lt;/li&gt;&lt;li&gt;Alto consumo de gas&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="64" vertex="1">
+                    <mxGeometry x="870" width="320" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="70" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="3">
-                    <mxGeometry y="720" width="620" height="80" as="geometry"/>
+                <mxCell id="70" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="1020" width="1190" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="70">
-                    <mxGeometry width="124" height="80" as="geometry"/>
+                <mxCell id="71" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="70" vertex="1">
+                    <mxGeometry width="140" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="72" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="70">
-                    <mxGeometry x="124" width="124" height="80" as="geometry"/>
+                <mxCell id="72" value="Pistones rotativos (rotativos)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="70" vertex="1">
+                    <mxGeometry x="140" width="250" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="70">
-                    <mxGeometry x="248" width="124" height="80" as="geometry"/>
+                <mxCell id="73" value="En este actuador, el vástago es una cremallera que acciona un piñon y transforma el movimiento lineal en un movimiento giratorio, hacia la izquierda o hacia la derecha, según el sentido del émbolo." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="70" vertex="1">
+                    <mxGeometry x="390" width="250" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="70">
-                    <mxGeometry x="372" width="124" height="80" as="geometry"/>
+                <mxCell id="74" value="&lt;ul&gt;&lt;li&gt;Tienen una mayor potencia.&lt;/li&gt;&lt;li&gt;Menos problemas de desgaste&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="70" vertex="1">
+                    <mxGeometry x="640" width="230" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="75" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="70">
-                    <mxGeometry x="496" width="124" height="80" as="geometry"/>
+                <mxCell id="75" value="&lt;ul&gt;&lt;li&gt;Alto costo de producción&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="70" vertex="1">
+                    <mxGeometry x="870" width="320" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="1120" width="1190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="Actuadores hidráulicos" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="82" vertex="1">
+                    <mxGeometry width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="Motor hidráulico (rotativo)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="82" vertex="1">
+                    <mxGeometry x="140" width="250" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="Transforman energía cinética del fluido en energía mecánica rotativa, la cual generalmente es aplicada a una carga mediante un eje." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="82" vertex="1">
+                    <mxGeometry x="390" width="250" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="&lt;ul&gt;&lt;li&gt;Pueden girar en dos sentidos.&lt;/li&gt;&lt;li&gt;Trabajan a altas velocidades.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="82" vertex="1">
+                    <mxGeometry x="640" width="230" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="&lt;ul&gt;&lt;li&gt;Produce mucho ruido&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="82" vertex="1">
+                    <mxGeometry x="870" width="320" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="3" vertex="1">
+                    <mxGeometry y="1200" width="1190" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="76" vertex="1">
+                    <mxGeometry width="140" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="Pistón hidráulico (lineal)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="76" vertex="1">
+                    <mxGeometry x="140" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="Constan de un cilindro dentro del cual se desplaza un émbolo o pistón, y que transforma la presión de un líquido mayormente aceite en energía mecánica." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="76" vertex="1">
+                    <mxGeometry x="390" width="250" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;ul&gt;&lt;li&gt;Proveen una fuerza unidireccional fiable.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="76" vertex="1">
+                    <mxGeometry x="640" width="230" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="&lt;ul&gt;&lt;li&gt;Sus dimensiones son de gran volumen.&lt;/li&gt;&lt;/ul&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" parent="76" vertex="1">
+                    <mxGeometry x="870" width="320" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
