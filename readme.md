@@ -26,7 +26,7 @@
   - [C2.1 Cuestionario Actuadores y su clasificación.](C-md\Unidad2\C2.1_ActuadoresNeumaticosHidraulicos.md)
   - [C2.2 Cuestionario Actuadores Eléctricos.](C-md/Unidad2/C2.2_ActuadoresElectricos.md)
 - Actividades de aprendizaje
-  - [A2.1 Investigación sobre actuadores eléctricos](C-md\Unidad2\A2.1_Tipos_Actuadores_Comerciales_GascaOlvera_Parvada.md)
+  - [A2.1 Investigación sobre actuadores eléctricos](C-md\Unidad2\A2.1_Tipos_actuadores_Comerciales_GascaOlvera_Parvada.md)
 ### - Unidad 3: microcontroladores y programación  
 ### - Unidad 4: puertos y buses de comunicación  
 ### - Unidad 5: interfaces 
