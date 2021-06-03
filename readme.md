@@ -26,12 +26,14 @@
   - [C2.1 Cuestionario Actuadores y su clasificación.](C-md/Unidad2/C2.1_ActuadoresNeumaticosHidraulicos.md)
   - [C2.2 Cuestionario Actuadores Eléctricos.](C-md/Unidad2/C2.2_ActuadoresElectricos.md)
 - Actividades de aprendizaje
-  - [A2.1 Investigación sobre actuadores eléctricos](C-md/Unidad2/A2.1_Tipos_actuadores_Comerciales_GascaOlvera_Parvada.md)
+  - [A2.1 Investigación sobre actuadores eléctricos.](C-md/Unidad2/A2.1_Tipos_actuadores_Comerciales_GascaOlvera_Parvada.md)
 ### - Unidad 3: microcontroladores y programación
 - Retos en clase
   - [C3.1 Arduino UNO salida digital.](C-md/Unidad3/C3.1_ArduinoIDE_SalidaDigital.md)
   - [C3.2 Entradas digital.](C-md/Unidad3/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md)
+  - [C3.3 Entradas Análoga](C-md/Unidad3/)
 - Actividades de aprendizaje
-  - Pendiente 
+  - [A3.1 Circuito sensor de deteccion de objetos.](C-md/Unidad3/A3.1_GascaOlvera_Parvada.md)
+  - [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32.](C-md/Unidad3/A3.2_GascaOlvera_Parvada.md)
 ### - Unidad 4: puertos y buses de comunicación  
 ### - Unidad 5: interfaces 
