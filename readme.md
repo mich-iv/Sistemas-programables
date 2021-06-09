@@ -35,5 +35,6 @@
 - Actividades de aprendizaje
   - [A3.1 Circuito sensor de deteccion de objetos.](C-md/Unidad3/A3.1_GascaOlvera_Parvada.md)
   - [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32.](C-md/Unidad3/A3.2_GascaOlvera_Parvada.md)
+  - [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](C-md/Unidad3/A3.3_GascaOlvera_Parvada.md)
 ### - Unidad 4: puertos y buses de comunicación  
 ### - Unidad 5: interfaces 
