@@ -36,5 +36,10 @@
   - [A3.1 Circuito sensor de deteccion de objetos.](C-md/Unidad3/A3.1_GascaOlvera_Parvada.md)
   - [A3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32.](C-md/Unidad3/A3.2_GascaOlvera_Parvada.md)
   - [A3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](C-md/Unidad3/A3.3_GascaOlvera_Parvada.md)
-### - Unidad 4: puertos y buses de comunicación  
-### - Unidad 5: interfaces 
+### - Unidad 4: puertos y buses de comunicación 
+- Actividades de aprendizaje
+  - [A4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth.](C-md/Unidad4/A.4.1_GascaOlvera_Parvada.md)
+  - [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi.](C-md\Unidad4\A4.2_ESP32_SensorLDR_WebServer_Wifi.md)
+### - Unidad 5: interfaces
+- Actividades de aprendizaje
+  - [A5.1 Actividad Final Identificación del color de un objeto.](C-md/Unidad5/A5.1_GascaOlvera_Parvada.md)
