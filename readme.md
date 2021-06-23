@@ -42,4 +42,4 @@
   - [A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi.](C-md\Unidad4\A4.2_ESP32_SensorLDR_WebServer_Wifi.md)
 ### - Unidad 5: interfaces
 - Actividades de aprendizaje
-  - [A5.1 Actividad Final Identificación del color de un objeto.](C-md/Unidad5/A5.1_GascaOlvera_Parvada.md)
+  - [A5.1 Actividad Final Identificación del color de un objeto.](C-md/Unidad5/A5.1_InterfaceNodeRed_SensorRGB.md)
